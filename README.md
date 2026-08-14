@@ -43,13 +43,13 @@ FactSales
 → DimLocation
 → DimShipping
 
-![Modèle de données](Data_Model/Data_Model.png)
+![Data_Model](Data_Model.PNG)
 
 ---
 
 ## 📈 Dashboard
 
-![Dashboard](Dashboard/Dashboard.png)
+![Dashboard](Dashboard.PNG)
 
 ### Principaux indicateurs
 
