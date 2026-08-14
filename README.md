@@ -43,13 +43,13 @@ FactSales
 → DimLocation
 → DimShipping
 
-![Data_Model](Data_Model.PNG)
+![Data_Model](Data_Model/Data_Model.PNG)
 
 ---
 
 ## 📈 Dashboard
 
-![Dashboard](Dashboard.PNG)
+![Dashboard](Dashboard/Dashboard.PNG)
 
 ### Principaux indicateurs
 
@@ -73,9 +73,7 @@ dans le dossier `/dax`.
 
 Source :
 
-Superstore Dataset — Kaggle
-
-[Voir le dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final))
+Superstore Dataset — Kaggle ([Voir le dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final))
 
 ---
 
