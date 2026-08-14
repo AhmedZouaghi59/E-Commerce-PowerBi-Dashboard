@@ -43,13 +43,13 @@ FactSales
 → DimLocation
 → DimShipping
 
-![Modèle de données](model/data-model.png)
+![Modèle de données](Data_Model/Data_Model.png)
 
 ---
 
 ## 📈 Dashboard
 
-![Dashboard](screenshots/dashboard-overview.png)
+![Dashboard](Dashboard/Dashboard.png)
 
 ### Principaux indicateurs
 
@@ -75,7 +75,7 @@ Source :
 
 Superstore Dataset — Kaggle
 
-[Voir le dataset](LIEN_KAGGLE)
+[Voir le dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final))
 
 ---
 
