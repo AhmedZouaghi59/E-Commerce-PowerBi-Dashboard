@@ -327,7 +327,6 @@ Affiche l'évolution du panier moyen avec une flèche.
 - `SWITCH()` — gestion des différents cas d'affichage
 - `ISBLANK()` — gestion des valeurs vides
 - `FORMAT()` — formatage des indicateurs
-- `ABS()` — gestion des valeurs négatives
 
 ---
 
