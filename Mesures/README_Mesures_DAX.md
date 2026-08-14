@@ -308,7 +308,7 @@ Affiche l'évolution du panier moyen avec une flèche.
 
 ## 🗂️ Organisation des mesures
 
-| Catégorie | Mesures |
+| Catégorie   | Mesures |
 |---|---|
 | 📊 Indicateurs KPI | CA, Nb de clients, Nb de commandes, Bénéfice, Marge %, Panier moyen |
 | 📈 Indicateurs KPI N-1 | CA N1, CA N1 %, Nb de clients N1 %, Nb de commandes N1 %, Bénéfice N1 %, Panier moyen N1 %, Marge N1 % |
