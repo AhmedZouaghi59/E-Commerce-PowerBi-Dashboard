@@ -64,10 +64,8 @@ FactSales
 
 ## 🧮 DAX
 
-Les principales mesures DAX utilisées sont disponibles
-dans le dossier `/dax`.
+La documentation complète des mesures DAX utilisées dans le dashboard est disponible dans le dossier [**Mesures DAX**](Mesures/README_Mesures_DAX.md).
 
----
 
 ## 📂 Données
 
