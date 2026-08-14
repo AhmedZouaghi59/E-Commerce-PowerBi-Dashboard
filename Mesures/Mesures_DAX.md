@@ -8,7 +8,7 @@ Les mesures sont organisées en trois catégories :
 - 📈 **Indicateurs KPI N-1**
 - 🔄 **Mesures d'affichage**
 
----
+```DAX
 
 ## 📊 1. Indicateurs KPI
 
@@ -19,12 +19,16 @@ SUM(Fact_Sales[Sales])
 
 Calcule le chiffre d'affaires total à partir des ventes.
 
+---
+
 ### Nombre de clients
 
 Nb de clients =
 DISTINCTCOUNT(Fact_Sales[Customer ID])
 
 Calcule le nombre de clients uniques.
+
+---
 
 ### Nombre de commandes
 
@@ -33,6 +37,8 @@ DISTINCTCOUNT(Fact_Sales[Order ID])
 
 Calcule le nombre de commandes uniques.
 
+---
+
 ### Bénéfice
 
 Bénéfice =
@@ -40,12 +46,16 @@ SUM(Fact_Sales[Profit])
 
 Calcule le bénéfice total réalisé.
 
+---
+
 ### Marge %
 
 Marge % =
 DIVIDE([Bénéfice], [CA])
 
 Calcule la marge en pourcentage du chiffre d'affaires.
+
+---
 
 ### Panier moyen
 
@@ -70,6 +80,8 @@ CALCULATE(
 
 Retourne le chiffre d'affaires réalisé sur la période équivalente de l'année précédente.
 
+---
+
 ### CA N1 %
 
 CA N1 % =
@@ -79,6 +91,8 @@ DIVIDE(
 )
 
 Calcule l'évolution du chiffre d'affaires par rapport à N-1.
+
+---
 
 ### Nb de clients N1 %
 
@@ -96,6 +110,8 @@ RETURN
 
 Calcule l'évolution du nombre de clients par rapport à N-1.
 
+---
+
 ### Nb de commandes N1 %
 
 Nb de commandes N1 % =
@@ -111,6 +127,8 @@ RETURN
     )
 
 Calcule l'évolution du nombre de commandes par rapport à N-1.
+
+---
 
 ### Bénéfice N1 %
 
@@ -128,6 +146,8 @@ RETURN
 
 Calcule l'évolution du bénéfice par rapport à N-1.
 
+---
+
 ### Panier moyen N1 %
 
 Panier moyen N1 % =
@@ -143,6 +163,8 @@ RETURN
     )
 
 Calcule l'évolution du panier moyen par rapport à N-1.
+
+---
 
 ### Marge N1 %
 
@@ -181,6 +203,8 @@ RETURN
 
 Affiche l'évolution du chiffre d'affaires avec une flèche indiquant la tendance.
 
+---
+
 ### Marge Evolution Affichage
 
 Marge Evolution Affichage =
@@ -195,6 +219,8 @@ RETURN
     )
 
 Affiche l'évolution de la marge en points.
+
+---
 
 ### Nb cln Evolution Affichage
 
@@ -211,6 +237,8 @@ RETURN
 
 Affiche l'évolution du nombre de clients avec une flèche.
 
+---
+
 ### Nb cmd Evolution Affichage
 
 Nb cmd Evolution Affichage =
@@ -225,6 +253,8 @@ RETURN
     )
 
 Affiche l'évolution du nombre de commandes avec une flèche.
+
+---
 
 ### PM Evolution Affichage
 
