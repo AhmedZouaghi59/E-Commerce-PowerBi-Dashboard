@@ -77,8 +77,18 @@ Superstore Dataset — Kaggle ([Voir le dataset](https://www.kaggle.com/datasets
 
 ## 💡 Insights
 
-Les principales conclusions de l'analyse sont présentées
-directement dans le dashboard.
+Le dashboard permet d'identifier les principales tendances et leviers de performance à travers l'analyse du chiffre d'affaires, de la rentabilité, des commandes et du comportement client.
+
+Les principaux insights portent notamment sur :
+
+- 📈 l'évolution des KPI par rapport à l'année précédente ;
+- 💰 l'analyse du chiffre d'affaires et de la rentabilité ;
+- 🛒 l'évolution du panier moyen et du volume de commandes ;
+- 👥 la dynamique du nombre de clients ;
+- 🏆 l'identification des catégories, segments et zones géographiques les plus performants ;
+- ⚠️ la détection des variations et points d'attention nécessitant une analyse approfondie.
+
+Les indicateurs et visualisations du dashboard permettent ainsi de transformer les données en **insights exploitables pour orienter le pilotage de la performance commerciale**.
 
 ---
 
