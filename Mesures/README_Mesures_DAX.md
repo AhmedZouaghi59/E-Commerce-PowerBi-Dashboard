@@ -310,9 +310,9 @@ Affiche l'évolution du panier moyen avec une flèche.
 
 | Catégorie   | Mesures |
 |---|---|
-| 📊 Indicateurs KPI | CA, Nb de clients, Nb de commandes, Bénéfice, Marge %, Panier moyen |
-| 📈 Indicateurs KPI N-1 | CA N1, CA N1 %, Nb de clients N1 %, Nb de commandes N1 %, Bénéfice N1 %, Panier moyen N1 %, Marge N1 % |
-| 🔄 Mesures d'affichage | CA Evolution Affichage, Marge Evolution Affichage, Nb cln Evolution Affichage, Nb cmd Evolution Affichage, PM Evolution Affichage |
+| Indicateurs KPI | CA, Nb de clients, Nb de commandes, Bénéfice, Marge %, Panier moyen |
+| Indicateurs KPI N-1 | CA N1, CA N1 %, Nb de clients N1 %, Nb de commandes N1 %, Bénéfice N1 %, Panier moyen N1 %, Marge N1 % |
+| Mesures d'affichage | CA Evolution Affichage, Marge Evolution Affichage, Nb cln Evolution Affichage, Nb cmd Evolution Affichage, PM Evolution Affichage |
 
 ---
 
