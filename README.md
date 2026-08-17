@@ -68,14 +68,14 @@ Cette approche permet de séparer les différentes étapes de préparation, de m
 
 ### Principaux indicateurs
 
-- 💰 **Chiffre d'affaires**
-- 🛒 **Nombre de commandes**
-- 👥 **Nombre de clients**
-- 🧾 **Panier moyen**
-- 📊 **Marge %**
-- 📈 **Évolution du CA vs N-1**
-- 📦 **Performance des catégories et produits**
-- 🌍 **Performance géographique**
+- **Chiffre d'affaires**
+- **Nombre de commandes**
+- **Nombre de clients**
+- **Panier moyen**
+- **Marge %**
+- **Évolution du CA vs N-1**
+- **Performance des catégories et produits**
+- **Performance géographique**
 
 ---
 
@@ -114,13 +114,13 @@ Le dashboard permet d'identifier les principales tendances et leviers de perform
 
 Les principaux axes d'analyse portent notamment sur :
 
-- 📈 **l'évolution des KPI** par rapport à l'année précédente ;
-- 💰 **la performance commerciale** à travers le chiffre d'affaires et le bénéfice ;
-- 🛒 **le comportement d'achat** à travers le panier moyen et le volume de commandes ;
-- 👥 **la dynamique client** et la contribution des différents segments ;
-- 🏆 **la performance des catégories et produits** ;
-- 🌍 **les écarts de performance entre les différentes zones géographiques** ;
-- ⚠️ **l'identification des variations et points d'attention** nécessitant une analyse approfondie.
+- **L'évolution des KPI** par rapport à l'année précédente ;
+- **La performance commerciale** à travers le chiffre d'affaires et le bénéfice ;
+- **Le comportement d'achat** à travers le panier moyen et le volume de commandes ;
+- **La dynamique client** et la contribution des différents segments ;
+- **La performance des catégories et produits** ;
+- **Les écarts de performance entre les différentes zones géographiques** ;
+- **L'identification des variations et points d'attention** nécessitant une analyse approfondie.
 
 Les indicateurs et visualisations permettent ainsi de transformer les données en **insights exploitables pour orienter le pilotage de la performance commerciale**.
 
